@@ -37,7 +37,7 @@ It aims to detect the aquatic species through aerial image analysis.
 
 These metrics demonstrate **high detection accuracy and strong localization performance** on the validation dataset.
 ## 📊 Dataset
-📥 [Download Dataset from Kaggle](https://www.kaggle.com/code/iitg9616/yolov11)
+📥 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/iitg9616/ydataset)
 
 
 
